@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.chamilo.app" version="1.11.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Chamilo Mobile</name>
+    <name>MeritSquare</name>
     <description>
-        Chamilo Mobile App is a multi-mobile-OS application that allows you access to Chamilo LMS's plattform.
+        Merit Square Mobile App is a multi-mobile-OS application that allows you access to MeritSquare LMS's plattform.
     </description>
-    <author email="info@beeznest.com" href="https://beeznest.com">
-        BeezNest
-    </author>
-    <author email="info@nosolored.com" href="https://www.nosolored.com">
-        Nosolored
+    <author email="rajeev30052@gmail.com" href="http://meritsquare.in">
+        Rajeev Kumar
     </author>
     <icon src="www/img/logo.png" />
     <content src="index.html" />
