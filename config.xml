@@ -7,7 +7,7 @@
     <author email="rajeev30052@gmail.com" href="http://meritsquare.in">
         Rajeev Kumar
     </author>
-    <icon src="www/img/logo.png" />
+    <icon src="www/img/logo2.png" />
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
